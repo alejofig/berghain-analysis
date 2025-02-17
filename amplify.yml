@@ -1,0 +1,17 @@
+version: 1
+applications:
+  - frontend:
+      phases:
+        preBuild:
+          commands:
+            - echo "Building Streamlit app..."
+        build:
+          commands:
+            - echo "Building Docker image..."
+            - docker build -t streamlit-app .
+      artifacts:
+        baseDirectory: /
+        files:
+          - "**/*"
+      cache:
+        paths: []
