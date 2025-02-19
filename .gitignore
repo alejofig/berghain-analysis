@@ -1,3 +1,5 @@
 .venv
 build.sh
 *.parquet
+app.yaml
+uv.lock
