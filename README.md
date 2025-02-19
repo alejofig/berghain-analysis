@@ -25,7 +25,3 @@ Para ejecutar la aplicación, usa el siguiente comando:
 ```bash
 streamlit run app.py
 ```
-
-## Ver en vivo
-
-Puedes ver la aplicación en vivo en [berghain.alejofig.com/](berghain.alejofig.com).
