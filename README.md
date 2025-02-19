@@ -1,6 +1,6 @@
 ## Descripción
 
-`berghain` es una aplicación desarrollada con Streamlit que 
+`berghain-analysis` es una aplicación desarrollada con Streamlit que 
 1. genera un data set mediante AI y web scrapping (Debes tener una API Key de OpenAI)
 
 ## Instalación
