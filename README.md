@@ -2,6 +2,7 @@
 
 `berghain-analysis` es una aplicación desarrollada con Streamlit que 
 1. genera un data set mediante AI y web scrapping (Debes tener una API Key de OpenAI)
+2. toma los datos y los pone en una app de streamlit.
 
 ## Instalación
 
@@ -24,3 +25,7 @@ Para ejecutar la aplicación, usa el siguiente comando:
 ```bash
 streamlit run app.py
 ```
+
+## Ver en vivo
+
+Puedes ver la aplicación en vivo en [berghain.alejofig.com/](berghain.alejofig.com).
